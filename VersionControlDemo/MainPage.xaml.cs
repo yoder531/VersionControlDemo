@@ -25,6 +25,8 @@ namespace VersionControlDemo
         public MainPage()
         {
             this.InitializeComponent();
+
+            // We are adding a comment.
         }
     }
 }
