@@ -12,5 +12,10 @@ namespace VersionControlDemo.Model
         public string  LastName { get; set; }
         public int Grade { get; set; }
 
+        public Student()
+        {
+            // TODO:
+        }
+
     }
 }
