@@ -6,7 +6,8 @@ using System.Threading.Tasks;
 
 namespace VersionControlDemo.Model
 {
-    class Student
+    public class Student
     {
+        public string FirstName { get; set; }
     }
 }
